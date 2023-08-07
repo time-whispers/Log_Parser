@@ -29,6 +29,7 @@ Logs come in so many formats that it would be impossible for any log management 
 An incorrect parsing configuration can show wrong data values and lead to inaccurate analysis. A good log management solution should allow you to perform a “dry-run” of the parsing rule by previewing the key-value pairs from a sample data set before saving it. It should also offer visual aids for creating and updating the parsing configuration. This can include color-coding and highlighting non-matching fields or errors.
 
 ## Tools/Packages used in this are:
+
 . numpy -> https://numpy.org/doc/
 . pandas	-> https://pandas.pydata.org/docs/
 . pip	-> https://pip.pypa.io/en/stable/
