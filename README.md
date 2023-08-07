@@ -30,17 +30,17 @@ An incorrect parsing configuration can show wrong data values and lead to inaccu
 
 ## Tools/Packages used in this are:
 
-. numpy -> https://numpy.org/doc/
-. pandas	-> https://pandas.pydata.org/docs/
-. pip	-> https://pip.pypa.io/en/stable/
-. pprint (pretty print) ->	https://docs.python.org/3/library/pprint.html
-. pretty-html-table	->	https://pypi.org/project/pretty-html-table/
-. python-dateutil	->	https://dateutil.readthedocs.io
-. pytz	->	https://pythonhosted.org/pytz/
-. setuptools	->	https://setuptools.pypa.io/en/latest/
-. six	->	https://six.readthedocs.io/
-. tzdata ->	https://tzdata.readthedocs.io/en/latest/
-. wheel	->	https://wheel.readthedocs.io/en/stable/
+1. numpy -> https://numpy.org/doc/
+2. pandas	-> https://pandas.pydata.org/docs/
+3. pip	-> https://pip.pypa.io/en/stable/
+4. pprint (pretty print) ->	https://docs.python.org/3/library/pprint.html
+5. pretty-html-table	->	https://pypi.org/project/pretty-html-table/
+6. python-dateutil	->	https://dateutil.readthedocs.io
+7. pytz	->	https://pythonhosted.org/pytz/
+8. setuptools	->	https://setuptools.pypa.io/en/latest/
+9. six	->	https://six.readthedocs.io/
+10. tzdata ->	https://tzdata.readthedocs.io/en/latest/
+11. wheel	->	https://wheel.readthedocs.io/en/stable/
 
 ## How does this log parser works?
 1. Clone the repository or download the contents of the repository as a Zip file.
