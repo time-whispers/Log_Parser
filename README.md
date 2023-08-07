@@ -29,17 +29,17 @@ Logs come in so many formats that it would be impossible for any log management 
 An incorrect parsing configuration can show wrong data values and lead to inaccurate analysis. A good log management solution should allow you to perform a “dry-run” of the parsing rule by previewing the key-value pairs from a sample data set before saving it. It should also offer visual aids for creating and updating the parsing configuration. This can include color-coding and highlighting non-matching fields or errors.
 
 ## Tools/Packages used in this are:
-numpy -> https://numpy.org/doc/
-pandas	-> https://pandas.pydata.org/docs/
-pip	-> https://pip.pypa.io/en/stable/
-pprint (pretty print) ->	https://docs.python.org/3/library/pprint.html
-pretty-html-table	->	https://pypi.org/project/pretty-html-table/
-python-dateutil	->	https://dateutil.readthedocs.io
-pytz	->	https://pythonhosted.org/pytz/
-setuptools	->	https://setuptools.pypa.io/en/latest/
-six	->	https://six.readthedocs.io/
-tzdata ->	https://tzdata.readthedocs.io/en/latest/
-wheel	->	https://wheel.readthedocs.io/en/stable/
+. numpy -> https://numpy.org/doc/
+. pandas	-> https://pandas.pydata.org/docs/
+. pip	-> https://pip.pypa.io/en/stable/
+. pprint (pretty print) ->	https://docs.python.org/3/library/pprint.html
+. pretty-html-table	->	https://pypi.org/project/pretty-html-table/
+. python-dateutil	->	https://dateutil.readthedocs.io
+. pytz	->	https://pythonhosted.org/pytz/
+. setuptools	->	https://setuptools.pypa.io/en/latest/
+. six	->	https://six.readthedocs.io/
+. tzdata ->	https://tzdata.readthedocs.io/en/latest/
+. wheel	->	https://wheel.readthedocs.io/en/stable/
 
 ## How does this log parser works?
 1. Clone the repository or download the contents of the repository as a Zip file.
