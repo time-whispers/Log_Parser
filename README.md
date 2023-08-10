@@ -1,4 +1,4 @@
-# Log_Parser
+# Log Parser
 
 A log management system must first parse the files to extract meaningful information from logs. Log parsing translates structured or unstructured log files so your log management system can read, index, and store their data. This way, you can easily filter, analyze, and manipulate the key-value information.
 
