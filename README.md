@@ -42,7 +42,8 @@ An incorrect parsing configuration can show wrong data values and lead to inaccu
 10. tzdata ->	https://tzdata.readthedocs.io/en/latest/
 11. wheel	->	https://wheel.readthedocs.io/en/stable/
 
-## How does this log parser works?
+## Follow these steps to see how this log parser works?
+
 1. Clone the repository or download the contents of the repository as a Zip file.
 2. Set up PyCharm Community Edition (https://www.jetbrains.com/pycharm/download/?section=windows) on your computer.
 3. Import the project into PyCharm.
